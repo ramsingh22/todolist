@@ -1,6 +1,6 @@
 # Getting Started with To-Do list App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project created for To-do list app.
 
 ## Available Scripts
 
